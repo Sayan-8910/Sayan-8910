@@ -5,11 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sayan-8910" alt="sayan-8910" /></a> </p>
 
-- 🌱 I’m currently learning *Java,OS,DSA*
+- 🌱 I’m currently learning *Java,python,OS,DSA,DBMS*
 
-- 💬 Ask me about *C,Java*
+- 💬 Ask me about *C,Java,python,SQL*
 
-- 📫 How to reach me *msayan066@gmail.com*
+- 📫 How to reach me
+-   email: *msayan066@gmail.com*
+-  Linkedin: www.linkedin.com/in/sayan-mondal-386a31294
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
