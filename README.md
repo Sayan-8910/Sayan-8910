@@ -1,16 +1,14 @@
 <h1 align="center">Hi 👋, I'm Sayan Mondal</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A CyberSecurity enthusiast from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sayan-8910&label=Profile%20views&color=0e75b6&style=flat" alt="sayan-8910" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sayan-8910" alt="sayan-8910" /></a> </p>
 
-- 🌱 I’m currently learning *Java,python,OS,DSA,DBMS*
-
-- 💬 Ask me about *C,Java,python,SQL*
+- 💬 Ask me about *Python,SQL,Linux,Networking*
 
 - 📫 How to reach me
--   email: *msayan066@gmail.com*
+-   email: *sm384008@gmail.com*
 -  Linkedin: www.linkedin.com/in/sayan-mondal-386a31294
 
 <h3 align="left">Connect with me:</h3>
